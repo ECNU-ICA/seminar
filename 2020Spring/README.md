@@ -10,8 +10,8 @@ Welcome to ICA Seminar 2020 Spring. :)
 
 | Week | Date       | Speaker     | Topic                                                       | Materials                                                    |
 | ---- | ---------- | ----------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| 1    | 2020.03.09 | Zekai Ye    | Heterogeneous Graph Neural Network: Models and Applications | [Slide](./week1/Heterogeneous GNN.pdf)                       |
-| 2    | 2020.03.23 | Dingbang Li | Bilinear Models                                             | [Slide](./week2/Bilinear Models slide.pdf)<br/>[Interpretation](./week2/Bilinear Models slide.pdf) |
+| 1    | 2020.03.09 | Zekai Ye    | Heterogeneous Graph Neural Network: Models and Applications | [Slide](./week1/HeterogeneousGNN.pdf)                       |
+| 2    | 2020.03.23 | Dingbang Li | Bilinear Models                                             | [Slide](./week2/BilinearModelsSlide.pdf)<br/>[Interpretation](./week2/BilinearModelsNotes.pdf) |
 | 3    | 2020.03.30 | Qian Zhao   |                                                             |                                                              |
 | 4    | 2020.04.06 |             |                                                             |                                                              |
 
