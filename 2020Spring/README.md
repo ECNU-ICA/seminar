@@ -14,7 +14,8 @@ Welcome to ICA Seminar 2020 Spring. :)
 | 2    | 2020.03.23 | Dingbang Li | Bilinear Models                                             | [Slide](./week2/BilinearModelsSlide.pdf)<br/>[Interpretation](./week2/BilinearModelsNotes.pdf) |
 | 3    | 2020.03.30 | Qian Zhao   | GNN & NLP                                                   | [Slide](./week3/GNN&NLP.pdf)<br/>[Video](https://www.bilibili.com/video/BV1az411h7dU/) |
 | 4    | 2020.04.06 | Jizhou Li   | Neural Architecture Search                                  | [Slide](./week4/NAS.pdf)                                     |
-| 5    | 2020.04.13 | Siyu Tao    |                                                             |                                                              |
+| 5    | 2020.04.13 | Siyu Tao    | Multi-hop reading                                           | [Slide](./week5/MultiHopReading.pdf)                         |
+|      | 2020.04.20 | Zilin Hu    |                                                             |                                                              |
 
 
 
