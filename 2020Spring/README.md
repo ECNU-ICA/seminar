@@ -15,7 +15,8 @@ Welcome to ICA Seminar 2020 Spring. :)
 | 3    | 2020.03.30 | Qian Zhao   | GNN & NLP                                                   | [Slide](./week3/GNN&NLP.pdf)<br/>[Video](https://www.bilibili.com/video/BV1az411h7dU/) |
 | 4    | 2020.04.06 | Jizhou Li   | Neural Architecture Search                                  | [Slide](./week4/NAS.pdf)                                     |
 | 5    | 2020.04.13 | Siyu Tao    | Multi-hop reading                                           | [Slide](./week5/MultiHopReading.pdf)                         |
-|      | 2020.04.20 | Zilin Hu    |                                                             |                                                              |
+| 6    | 2020.04.20 | Zilin Hu    | Document layout analysis                                    | [Slide](./week6/DLA.pdf)                                     |
+| 7    | 2020.04.27 | Jie He      |                                                             |                                                              |
 
 
 
