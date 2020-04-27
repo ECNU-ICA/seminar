@@ -16,7 +16,8 @@ Welcome to ICA Seminar 2020 Spring. :)
 | 4    | 2020.04.06 | Jizhou Li   | Neural Architecture Search                                  | [Slide](./week4/NAS.pdf)                                     |
 | 5    | 2020.04.13 | Siyu Tao    | Multi-hop reading                                           | [Slide](./week5/MultiHopReading.pdf)                         |
 | 6    | 2020.04.20 | Zilin Hu    | Document layout analysis                                    | [Slide](./week6/DLA.pdf)                                     |
-| 7    | 2020.04.27 | Jie He      |                                                             |                                                              |
+| 7    | 2020.04.27 | Jie He      | Data generation                                             | [Slide](./week7/DataGeneration.pdf)                          |
+| 8    | 2020.05.04 | Zixin Ning  |                                                             |                                                              |
 
 
 
