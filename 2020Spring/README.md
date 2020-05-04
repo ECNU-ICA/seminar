@@ -17,7 +17,8 @@ Welcome to ICA Seminar 2020 Spring. :)
 | 5    | 2020.04.13 | Siyu Tao    | Multi-hop reading                                           | [Slide](./week5/MultiHopReading.pdf)                         |
 | 6    | 2020.04.20 | Zilin Hu    | Document layout analysis                                    | [Slide](./week6/DLA.pdf)                                     |
 | 7    | 2020.04.27 | Jie He      | Data generation                                             | [Slide](./week7/DataGeneration.pdf)                          |
-| 8    | 2020.05.04 | Zixin Ning  |                                                             |                                                              |
+| 8    | 2020.05.04 | Zixin Ning  | Table detection                                             | [Slide](./week8/tableDetection.pdf)                          |
+| 9    | 2020.05.11 | Jiabo Ye    |                                                             |                                                              |
 
 
 
