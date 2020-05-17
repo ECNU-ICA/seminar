@@ -18,7 +18,8 @@ Welcome to ICA Seminar 2020 Spring. :)
 | 6    | 2020.04.20 | Zilin Hu    | Document layout analysis                                    | [Slide](./week6/DLA.pdf)                                     |
 | 7    | 2020.04.27 | Jie He      | Data generation                                             | [Slide](./week7/DataGeneration.pdf)                          |
 | 8    | 2020.05.04 | Zixin Ning  | Table detection                                             | [Slide](./week8/tableDetection.pdf)                          |
-| 9    | 2020.05.11 | Jiabo Ye    |                                                             |                                                              |
+| 9    | 2020.05.11 | Jiabo Ye    | Visual Grounding                                            | [Slide](./week9/VisualGrounding.pdf)                         |
+| 10   | 2020.05.18 |             |                                                             |                                                              |
 
 
 
