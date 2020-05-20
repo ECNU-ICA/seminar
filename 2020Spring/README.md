@@ -19,7 +19,8 @@ Welcome to ICA Seminar 2020 Spring. :)
 | 7    | 2020.04.27 | Jie He      | Data generation                                             | [Slide](./week7/DataGeneration.pdf)                          |
 | 8    | 2020.05.04 | Zixin Ning  | Table detection                                             | [Slide](./week8/tableDetection.pdf)                          |
 | 9    | 2020.05.11 | Jiabo Ye    | Visual Grounding                                            | [Slide](./week9/VisualGrounding.pdf)                         |
-| 10   | 2020.05.18 |             |                                                             |                                                              |
+| 10   | 2020.05.18 | Zijing Yang | Knowledge Graph-Based Recommender Systems                   | [Slide](./week10/KnowledgeGraph-BasedRecommenderSystems.pdf) |
+| 11   | 2020.05.25 |             |                                                             |                                                              |
 
 
 
