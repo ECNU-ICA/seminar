@@ -13,7 +13,7 @@ Welcome to ICA Seminar 2020 Fall. :)
 | Week | Date       | Speaker                                 | Topic                                                        | Attachments                                                  |
 | ---- | ---------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | 2020.09.24 | 杨紫荆<br/>叶泽凯<br/>叶加博<br/>李定邦 | Conversational Recommendation<br/>Task-Oriented Dialog Systems<br/>Visual Grounding<br/>Visual Language Navigation | [Slide](./week1/ConversationalRecommendation.pdf)<br/>[Slide](./week1/Task-OrientedDialogSystems.pdf)<br/>[Slide](./week1/VisualGrounding.pdf)<br/>[Slide](./week1/VisualLanguageNavigation.pdf) |
-| 2    | 2020.10.10 | 陶思雨<br/>赵前                         |                                                              |                                                              |
+| 2    | 2020.10.10 | 陶思雨<br/>赵前                         | Retrieval based Multi-turn Dialogue<br/>PLMs with Knowledge  | [Slide](./week2/RetrievalBasedMulti-turnDialogue.pdf)<br/>[Slide](./week2/PLMswithKnowledge.pdf) |
 | 3    | 2020.10.15 | 高桢<br/>郭晨亮                         |                                                              |                                                              |
 | 4    | 2020.10.22 | 张鹏                                    |                                                              |                                                              |
 | 5    | 2020.10.29 | 虞扬                                    |                                                              |                                                              |
