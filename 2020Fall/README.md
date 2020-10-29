@@ -16,7 +16,7 @@ Welcome to ICA Seminar 2020 Fall. :)
 | 2    | 2020.10.10 | 陶思雨<br/>赵前                         | Retrieval based Multi-turn Dialogue<br/>PLMs with Knowledge  | [Slide](./week2/RetrievalBasedMulti-turnDialogue.pdf)<br/>[Slide](./week2/PLMswithKnowledge.pdf), [Blog](https://www.dreamwings.cn/plms-with-knowledge/5687.html) |
 | 3    | 2020.10.15 | 高桢<br/>郭晨亮                         | Knowledge Graph Completion<br/>Author Name Disambiguation    | [Slide](./week3/KnowledgeGraphCompletion.pdf)<br/>[Slide](./week3/AuthorNameDisambiguation.pdf) |
 | 4    | 2020.10.22 | 张鹏                                    | 浅析知识图谱于智能搜索领域中的应用                           | [Slide](./week4/ApplicationOfIntelligentSearchInKnowledgeGraph.pdf) |
-| 5    | 2020.10.29 | 虞扬                                    |                                                              |                                                              |
+| 5    | 2020.10.29 | 虞扬                                    | KGC: Knowledge Graph Embedding                               | [Slide](./week5/KGCKnowledgeGraphEmbedding.pdf)              |
 | 6    | 2020.11.05 | 蔡泽锋                                  |                                                              |                                                              |
 | 7    | 2020.11.12 | 陈豪                                    |                                                              |                                                              |
 | 8    | 2020.11.19 | 李楷达                                  |                                                              |                                                              |
