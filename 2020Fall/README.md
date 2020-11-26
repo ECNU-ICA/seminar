@@ -17,8 +17,8 @@ Welcome to ICA Seminar 2020 Fall. :)
 | 3    | 2020.10.15 | 高桢<br/>郭晨亮                         | Knowledge Graph Completion<br/>Author Name Disambiguation    | [Slide](./week3/KnowledgeGraphCompletion.pdf)<br/>[Slide](./week3/AuthorNameDisambiguation.pdf) |
 | 4    | 2020.10.22 | 张鹏                                    | 浅析知识图谱于智能搜索领域中的应用                           | [Slide](./week4/ApplicationOfIntelligentSearchInKnowledgeGraph.pdf) |
 | 5    | 2020.10.29 | 虞扬                                    | KGC: Knowledge Graph Embedding                               | [Slide](./week5/KGCKnowledgeGraphEmbedding.pdf)              |
-| 6    | 2020.11.05 | 蔡泽锋                                  |                                                              |                                                              |
-| 7    | 2020.11.12 | 陈豪                                    |                                                              |                                                              |
+| 6    | 2020.11.05 | 蔡泽锋                                  | Machine Reading Comprehension                                | [Slide](./week6/Machine_Reading_Comprehension_oklen.pdf)     |
+| 7    | 2020.11.12 | 陈豪                                    | 阅读理解中的数值推理                                         | [Slide](./week7/NumericalReasoningInReadingComprehension.pdf) |
 | 8    | 2020.11.19 | 李楷达                                  |                                                              |                                                              |
 | 9    | 2020.11.26 | 凌静                                    |                                                              |                                                              |
 | 10   | 2020.12.03 | 刘家伟                                  |                                                              |                                                              |
