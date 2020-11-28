@@ -19,7 +19,7 @@ Welcome to ICA Seminar 2020 Fall. :)
 | 5    | 2020.10.29 | 虞扬                                    | KGC: Knowledge Graph Embedding                               | [Slide](./week5/KGCKnowledgeGraphEmbedding.pdf)              |
 | 6    | 2020.11.05 | 蔡泽锋                                  | Machine Reading Comprehension                                | [Slide](./week6/Machine_Reading_Comprehension_oklen.pdf)     |
 | 7    | 2020.11.12 | 陈豪                                    | 阅读理解中的数值推理                                         | [Slide](./week7/NumericalReasoningInReadingComprehension.pdf) |
-| 8    | 2020.11.19 | 李楷达                                  |                                                              |                                                              |
+| 8    | 2020.11.19 | 李楷达                                  | 表格数据处理                                                 | [Slide](./week8/TableDataProcessing.pdf)                     |
 | 9    | 2020.11.26 | 凌静                                    | 基于规则的知识图谱补全                                       | [Slide](./week9/Rule-BasedKnowledgeGraphCompletion.pdf)      |
 | 10   | 2020.12.03 | 刘家伟<br/>刘平生                       |                                                              |                                                              |
 | 11   | 2020.12.10 | 彭凯龙                                  |                                                              |                                                              |
