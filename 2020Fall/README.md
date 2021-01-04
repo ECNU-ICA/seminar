@@ -23,7 +23,7 @@ Welcome to ICA Seminar 2020 Fall. :)
 | 9    | 2020.11.26 | 凌静                                    | 基于规则的知识图谱补全                                       | [Slide](./week9/Rule-BasedKnowledgeGraphCompletion.pdf)      |
 | 10   | 2020.12.03 | 刘家伟<br/>刘平生                       | Hierarchical Text Classification<br/>Knowledge-aware Commonsense Question Answering | [Slide](./week10/HierarchicalTextClassification.pdf)<br/>[Slide](./week10/Knowledge-awareCommonsenseQuestionAnswering.pdf) |
 | 11   | 2020.12.10 | 彭凯龙                                  | Table-based Fact Verification                                | [Slide](./week11/Table-basedFactVerification.pdf)            |
-| 12   | 2020.12.17 | 汪志伟                                  |                                                              |                                                              |
+| 12   | 2020.12.17 | 汪志伟                                  | Multimodal Machine Learning                                  | [Slide](./week12/MultimodalMachineLearning.pdf)              |
 | 13   | 2020.12.24 | 曾缘                                    |                                                              |                                                              |
 | 14   | 2020.12.31 | 张震                                    |                                                              |                                                              |
 
