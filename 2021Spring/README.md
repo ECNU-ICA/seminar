@@ -1,6 +1,6 @@
  # ICA Seminar -- 2021 Spring
 
-Time: **15:00 pm, Friday**
+Time: **13:00 pm, Friday**
 
 Welcome to ICA Seminar 2021 Spring. :)
 
