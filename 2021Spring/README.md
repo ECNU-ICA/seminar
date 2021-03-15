@@ -11,7 +11,7 @@ Welcome to ICA Seminar 2021 Spring. :)
 | Week | Date       | Speaker           | Topic                                                        | Attachments                                                  |
 | ---- | ---------- | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | 2021.03.05 | 李定邦<br/>叶加博 | Dynamic Graph Networks<br/>Vision and Language Pretrained Models | [Slide](./week1/DynamicGraphModels.pdf)<br/>[Slide](./week1/VisionLanguagePretrain.pdf) |
-| 2    | 2021.03.12 | 杨紫荆<br/>陈豪   | 会话推荐系统                                                 |                                                              |
+| 2    | 2021.03.12 | 杨紫荆            | Conversational Recommender Systems: A Survey                 | [Slide](./week2/01_CRS_Survey.pdf)                           |
 | 3    | 2021.03.19 | 高桢<br/>曾缘     | 图学习与挖掘<br/>基于知识图谱的推荐系统                      |                                                              |
 | 4    | 2021.03.26 | 凌静<br/>虞扬     | 知识图谱与推理<br/>知识图谱补全的可解释 / 稀疏 / few-shot    |                                                              |
 | 5    | 2021.04.02 | 陶思雨<br/>赵前   |                                                              |                                                              |
