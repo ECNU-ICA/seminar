@@ -19,7 +19,7 @@ Welcome to ICA Seminar 2021 Fall. :)
 | 7    | 2021.11.08 | 张鹏             |       |             |
 | 8    | 2021.11.15 | 黄正结           |       |             |
 | 9    | 2021.11.22 |  --------------  |       |             |
-| 10   | 2021.11.29 | 李昌群<br/>陈湛一 |       |             |
+| 10   | 2021.11.29 | 李昌群<br/>陈湛一 |       |[slide](./week10/Dialogue_Summarization.pdf)<br/>[slide](./week10/Dialogue_Summarization_detail.pdf)|
 | 11   | 2021.12.06 | 梁怡萍<br/>金江林 |       |[slide](./week11/Relation_Extraction.pdf)<br/>[slide](./week11/Visual_Grounding.pdf)|
 | 12   | 2021.12.13 | 刘平生<br/>毛媛媛 |       |             |
 | 13   | 2021.12.20 | 刘家伟<br/>程超   |       |             |
