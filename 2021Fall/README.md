@@ -21,7 +21,7 @@ Welcome to ICA Seminar 2021 Fall. :)
 | 9    | 2021.11.22 |  --------------  |       |             |
 | 10   | 2021.11.29 | 李昌群<br/>陈湛一 |       |[slide](./week10/Dialogue_Summarization.pdf)<br/>[slide](./week10/Dialogue_Summarization_detail.pdf)|
 | 11   | 2021.12.06 | 梁怡萍<br/>金江林 |       |[slide](./week11/Relation_Extraction.pdf)<br/>[slide](./week11/Visual_Grounding.pdf)|
-| 12   | 2021.12.13 | 刘平生<br/>毛媛媛 |       |             |
+| 12   | 2021.12.13 | 刘平生<br/>毛媛媛 |       |[slide](./week12/Empathetic_Dialogue.pptx)<br/>[slide](./week12/Machine_theory_of_mind.pptx)|
 | 13   | 2021.12.20 | 刘家伟<br/>程超   |       |             |
 | 14   | 2021.12.27 | 王佳镐<br/>吴平   |       |             |
 
