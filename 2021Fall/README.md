@@ -26,6 +26,10 @@ Welcome to ICA Seminar 2021 Fall. :)
 | 14   | 2021.12.27 | 王佳镐<br/>吴平   |       |[slide](./week14/常识获取.pptx)<br/>[slide](./week14/Relation_Integration_for_OpenIE.pptx)|
 
 
+## Records
+[Link](https://pan.baidu.com/s/1U8ahJz8R_1-8AvwnzzxhoA)      提取码：icam
+
+
 
 ## F.A.Q.
 
