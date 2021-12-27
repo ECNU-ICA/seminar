@@ -27,7 +27,8 @@ Welcome to ICA Seminar 2021 Fall. :)
 
 
 ## Records
-[Link](https://pan.baidu.com/s/1U8ahJz8R_1-8AvwnzzxhoA)      提取码：icam
+[Link](https://pan.baidu.com/s/1U8ahJz8R_1-8AvwnzzxhoA)  
+提取码：icam
 
 
 
