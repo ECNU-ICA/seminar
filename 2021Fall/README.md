@@ -10,7 +10,7 @@ Welcome to ICA Seminar 2021 Fall. :)
 
 | Week | Date       | Speaker           | Topic | Attachments |
 | ---- | ---------- | ----------------- | ----- | ----------- |
-| 1    | 2021.09.13 | 叶加博            |       |[slide](./week1/Visual_Grounding_2021.pdf)|
+| 1    | 2021.09.13 | 叶加博            |Visual Grounding|[slide](./week1/Visual_Grounding_2021.pdf)|
 | 2    | 2021.09.27 | 虞扬<br/>凌静     |       |[slide](./week2/Supervised_OIE.pptx)<br/>[slide](./week2/conversational_recommendation_system.pptx)|
 | 3    | 2021.10.11 | 李楷达<br/>蔡泽锋 |       |[slide](./week3/多模态情感分析.pptx)<br/>[slide](./week3/VAE可控生成.pptx)|
 | 4    | 2021.10.18 | 李定邦<br/>汪志伟 |       |[slide](./week4/Visual_Reasoning.pdf)<br/>[slide](./week4/Text-to-Image.pptx)|
